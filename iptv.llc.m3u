@@ -18357,3 +18357,5 @@ http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",龙岩综合 (540p)
 http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="BemMaisTV.au" tvg-logo="https://imgur.com/E6ILeP9" group-title="Educational",Bem Mais TV (1080p)
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
